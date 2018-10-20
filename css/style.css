@@ -34,7 +34,7 @@ a:hover {
 }
 
 .custom-section-fst-content > h1 {
-    font-size: 36px;
+    font-size: 32px;
     font-weight: bold;
 }
 
@@ -72,18 +72,20 @@ a:hover {
 }
 
 .custom-form-head > h3 {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
+    margin-right: 30%;
 }
 
 .custom-form-head > p {
     font-size: 0.6rem;
+    margin-right: 30;
 }
 
 .custom-form-head > i {
     position: absolute;
     top: 20%;
     right: 5%;
-    font-size: 3rem;
+    font-size: calc(2.5vmin + 2.5vmax);
 }
 
 .custom-form {
